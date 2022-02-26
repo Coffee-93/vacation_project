@@ -1,2 +1,3 @@
-# vacation_project
-Vacation project for Software Engineering class (CSCE 5430)
+# Vacation for Dummies
+
+#### Vacation project for Software Engineering class (CSCE 5430)
