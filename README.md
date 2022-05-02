@@ -1,11 +1,12 @@
 # Vacation for Dummies
-
-#### Vacation project for Software Engineering class (CSCE 5430)
+* Project for Software Engineering (CSCE 5430)
 
 ## Team Members:
 * Rimma Shilkina - Product Owner
-* Sree Uma Vani Thatiparth - Scrum Master
-* Richard Tran - Developer
-* Yasawini Dare - Developer 
-* Chandini Athota - Tester
-* Mahesh Kumar Sibbala - Tester
+* Richard Tran - Lead Developer
+
+
+## Demo
+
+https://user-images.githubusercontent.com/77714442/166173788-fc845207-0209-44a4-8ded-52ac8979528a.mp4
+
